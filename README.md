@@ -6,7 +6,7 @@
 
 # 🛠️ **Using**
 - **Streamlit** to design UI
-- **Ollama **to build an LLM server
+- **Ollama** to build an LLM server
 - **FastAPI**
 
 # 📋 **Requirements:**
