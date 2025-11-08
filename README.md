@@ -30,9 +30,9 @@
 
 
 ### ▶️ **Run Frontend**
-- Open a new terminal
+- **Open a new terminal**
 
-- cd 24127541
+- **cd 24127541**
   
 - .\venv311\Scripts\activate
 
