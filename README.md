@@ -9,12 +9,12 @@
 - **Ollama** to build an LLM server
 - **FastAPI**
 
-### 📋 **Requirements:**
+### 📋 **Requirements**
 - Python 3.11
 - Streamlit
 - Other dependencies in requirements.txt
 
-### ⚙️ **Installation:**
+### ⚙️ **Installation**
 
 - git clone https://github.com/thanh12388h/24127541.git
 
@@ -22,14 +22,14 @@
 
 - pip install -r requirements.txt 
 
-### ▶️ **Run Backend:**
+### ▶️ **Run Backend**
 
 - .\venv311\Scripts\activate
 
 - uvicorn main:app --reload --port 8000
 
 
-### ▶️ **Run Frontend:**
+### ▶️ **Run Frontend**
 
 - .\venv311\Scripts\activate
 
