@@ -1,15 +1,15 @@
-# 🚀**Feature**
+## 🚀**Feature**
 
 - **Input:** origin city, destination city, dates, interests (food, museums, nature, nightlife), pace (relaxed, normal, tight)
 
 - **Output:** day-by-day itinerary (morning, afternoon, evening) with short explanations
 
-## 🛠️ **Using**
+### 🛠️ **Using**
 - **Streamlit** to design UI
 - **Ollama** to build an LLM server
 - **FastAPI**
 
-## 📋 **Requirements:**
+### 📋 **Requirements:**
 - Python 3.11
 - Streamlit
 - Other dependencies in requirements.txt
