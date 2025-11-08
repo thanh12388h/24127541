@@ -1,27 +1,27 @@
-🚀 #Feature#
+🚀 Feature
 Input: origin city, destination city, dates, interests (food, museums, nature, nightlife), pace (relaxed, normal, tight)
 Output: day-by-day itinerary (morning, afternoon, evening) with short explanations
 
-🛠️ #Using:
+🛠️ Using:
 - Streamlit to design UI
 - Ollama to build an LLM server
 - FastAPI
 
-📋 # Requirements:
+📋 Requirements:
 - Python 3.11
 - Streamlit
 - Other dependencies in requirements.txt
 
-⚙️ # Installation:
+⚙️ Installation:
 git clone https://github.com/thanh12388h/24127541.git
 cd 24127541
 pip install -r requirements.txt 
 
-▶️ # Run Backend:
+▶️ Run Backend:
 .\venv311\Scripts\Activate.ps1
 uvicorn main:app --reload --port 8000
 
-▶️ # Run Frontend:
+▶️ Run Frontend:
 .\venv311\Scripts\Activate.ps1
 streamlit run app.py 
 streamlit run app.py
