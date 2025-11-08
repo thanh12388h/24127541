@@ -24,14 +24,14 @@ pip install -r requirements.txt
 
 ▶️ Run Backend:
 
-.\venv311\Scripts\Activate.ps1
+.\venv311\Scripts\activate
 
 uvicorn main:app --reload --port 8000
 
 
 ▶️ Run Frontend:
 
-.\venv311\Scripts\Activate.ps1
+.\venv311\Scripts\activate
 
 streamlit run app.py 
 
