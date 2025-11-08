@@ -1,4 +1,4 @@
-🚀 **Feature:**
+#🚀 **Feature:**
 
 - Input: origin city, destination city, dates, interests (food, museums, nature, nightlife), pace (relaxed, normal, tight)
 
