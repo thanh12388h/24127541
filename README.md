@@ -1,5 +1,6 @@
 🚀 Feature
 Input: origin city, destination city, dates, interests (food, museums, nature, nightlife), pace (relaxed, normal, tight)
+
 Output: day-by-day itinerary (morning, afternoon, evening) with short explanations
 
 🛠️ Using:
