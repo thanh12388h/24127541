@@ -1,0 +1,34 @@
+[
+  {
+    "input": {
+      "origin": "Hanoi",
+      "destination": "Da Nang",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-03",
+      "interests": ["Food", "Nature"],
+      "pace": "normal"
+    },
+    "expected_schema": {
+      "days": [
+        {
+          "date": "YYYY-MM-DD",
+          "morning": {
+            "time": "string",
+            "title": "string",
+            "explain": "string"
+          },
+          "afternoon": {
+            "time": "string",
+            "title": "string",
+            "explain": "string"
+          },
+          "evening": {
+            "time": "string",
+            "title": "string",
+            "explain": "string"
+          }
+        }
+      ]
+    }
+  }
+]
