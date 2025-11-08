@@ -30,7 +30,11 @@ uvicorn main:app --reload --port 8000
 
 
 ▶️ Run Frontend:
+
 .\venv311\Scripts\Activate.ps1
+
 streamlit run app.py 
-streamlit run app.py
+
+
+
 
