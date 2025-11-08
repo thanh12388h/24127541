@@ -6,7 +6,7 @@ from datetime import date
 API_URL = st.secrets.get("API_URL", "http://localhost:8000")
 
 st.set_page_config(page_title="Trip Planner", layout="wide")
-st.title("Trip Planner ✈️ (Login + History)")
+st.title("Trip Planner ✈️")
 
 # Init session
 for key, value in [("token", None), ("user_id", None), ("history", []), ("selected_history", None), ("last_itinerary", None)]:
